@@ -1,2 +1,9 @@
 # NVimConfig
-My neo-vim config
+
+This repository is where my Neovim configuration will live.
+
+## Location
+
+Use this config at:
+
+`~/.config/nvim`
